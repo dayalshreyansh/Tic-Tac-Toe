@@ -47,7 +47,7 @@ Play against a friend or challenge the computer with smart AI using the Minimax 
     * Switching turns
 
 ==============================================
-            DEMO SCREENSHOT
+            DEMO 
 ==============================================
 
     --------------
@@ -71,10 +71,10 @@ Play against a friend or challenge the computer with smart AI using the Minimax 
 ==============================================
               AUTHOR
 ==============================================
-- Developed by: [Your Name]
+- Developed by: Shreyasnsh Dayal
 - Built with C++ and lots of love!
 
 ==============================================
              LICENSE
 ==============================================
-- Open Source project. Feel free to modify and share
+- Open Source project. Feel free to modify and share!!
